@@ -1,6 +1,6 @@
 # Sensor de Luz Arduino 🚨
 
-Integrantes:
+Alunos:
 <ul>
 <li>André Nakamatsu Rocha (RM 555004)</li>
 <li>Caio Suzano Ferreira Da Silva (RM 554763)</li>
@@ -8,7 +8,6 @@ Integrantes:
 <li>Lucas Vasquez Silva (RM 555159)</li>
 <li>Guilherme Linard F. R. Gozzi (RM 555768)</li>
 </ul>
-
 <br />
 
 # O Projeto 🖊️
@@ -19,7 +18,7 @@ O projeto baseia-se em um sistema para monitorar a luminosidade de uma vinícola
 
 <a href="https://www.tinkercad.com/things/hqnSv0cleUD-cp-1-sensor-de-luminosidade/editel?sharecode=W6U-sAYscPEdjHpCb9JnqhZcRVCxMQC69G1Xbp4hNTI">Link do Projeto</a>
 
-# Explicando o código 📄
+# O Código 📄
 
 Primeiro nós definimos as variáveis que serão usadas no código.
 ```C++
