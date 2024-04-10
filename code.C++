@@ -47,14 +47,14 @@ void loop ()
   	apagaLeds(); // função para apagar as leds
     digitalWrite(LEDA, HIGH); // código para ligar a led amarela
     tone(buzzer, 400, 3000); //código do buzzer para emitir som
-	delay(5000); // delay do buzer e das luzes
+	  delay(5000); // delay do buzer e das luzes
   }
   if (valorLDR >= 900) //comparativo de luminosidade
   {
     apagaLeds(); // função para apagar as leds
     digitalWrite(LEDV, HIGH); // código para ligar a led vermelha
     tone(buzzer, 200, 3000); //código do buzzer para emitir som
-	delay(5000); // delay do buzer e das luzes
+	  delay(5000); // delay do buzer e das luzes
   }
   
 }   
